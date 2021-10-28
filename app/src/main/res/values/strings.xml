@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HarajTask</string>
+    <string name="carName">Toyota Toyota Toyota</string>
+    <string name="updateTime">since 3 hours</string>
+    <string name="_10">10</string>
+    <string name="holderName">Mohamed</string>
+    <string name="location">Riyadh</string>
+
+    <string name="please_contact_me">Please contact me:</string>
+    <string name="_myPhone">+96672665875</string>
+</resources>
